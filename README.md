@@ -1,5 +1,4 @@
 # Curriculo
-```java
 <!DOCTYPE html>
 <html lang="pt-BR">
 
@@ -78,4 +77,3 @@
 </body>
 
 </html>
-```java
