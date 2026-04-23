@@ -1,81 +1,29 @@
-# Curriculo
-```java
-<!DOCTYPE html>
-<html lang="pt-BR">
+# 🚀 [Nome do Site]
+> Link para o site: [Acesse aqui](https://link-do-seu-site.com)
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Currículo - Lucas Hartmann</title>
-    <link rel="stylesheet" href="style.css">
-</head>
+## 📖 Sobre
+Explique brevemente o objetivo do site. É um portfólio? Uma landing page? Um e-commerce? 
+Exemplo: "Este é um site de agendamentos criado para facilitar a organização de horários de barbearias."
 
-<body>
-    <div class="container">
-        <header>
-            <div class="header-content">
-                <img src="./assets/img/MinhaFoto.jpeg" alt="Foto de Lucas Hartmann" class="profile-pic">
-                <h1>LUCAS HARTMANN</h1>
-                <div class="contact-info">
-                    <span>Telefone: <br> (51) 99349-4175</span> <br>
-                    <span><br>E-mail: lucashartmann7221@gmail.com</span>
-                </div>
-        </header>
+## ✨ Funcionalidades
+*   **Design Responsivo:** Adaptado para mobile e desktop.
+*   **Integração com API:** Busca dados em tempo real de [Nome da API].
+*   **Formulário de Contato:** Envio de e-mails via [Serviço usado].
 
-        <section>
-            <h3>OBJETIVOS</h3>
-            <p>Meus objetivos são me aprofundar em conhecimentos de front-end e auxiliar da melhor forma possível no
-                desenvolvimento web moderno e responsivo.</p>
-        </section>
+## 🛠️ Tecnologias Utilizadas
+Aqui você lista as ferramentas que usou para construir o projeto:
+*   [HTML5 / CSS3](https://mozilla.org)
+*   [React](https://reactjs.org) ou [Vue.js](https://vuejs.org)
+*   [Bootstrap](https://getbootstrap.com) ou [Tailwind CSS](https://tailwindcss.com)
 
-        <section>
-            <h3>FORMAÇÃO</h3>
-            <div class="item">
-                <strong>2025 - 2027 | ULBRA SÃO LUCAS</strong>
-                <p>Curso Técnico em Informática</p>
-            </div>
-        </section>
+## 📸 Demonstração
+Adicione um GIF ou print do seu site aqui para que o recrutador veja o visual sem precisar rodar o código.
+![Preview do Site](link-da-imagem.png)
 
-        <section>
-            <h3>EXPERIÊNCIAS</h3>
-            <ul>
-                <li><strong>Site Divertidamente:</strong> Desenvolvimento de plataforma interativa para crianças
-                    utilizando HTML, CSS e JavaScript, com foco em gamificação e aprendizado.</li>
-                <li><strong>Site Institucional:</strong> Desenvolvimento de página informativa sobre o modelo de negócio
-                    Freemium.</li>
-            </ul>
-        </section>
+## ⚙️ Como Rodar Localmente
+Se alguém quiser baixar seu código, como eles fazem para ver o site funcionando?
+1. Clone este repositório: `git clone https://github.com`
+2. Abra o arquivo `index.html` no navegador ou, se usar React/Node, rode `npm install` e `npm start`.
 
-        <section>
-            <h3>IDIOMAS</h3>
-            <ul>
-                <li><strong>Português:</strong> Nativo</li>
-                <li><strong>Inglês:</strong> [Avançado]</li>
-            </ul>
-        </section>
-
-        <div class="skills-grid">
-            <section>
-                <h3>HARD SKILLS</h3>
-                <ul>
-                    <li>HTML, CSS e JavaScript</li>
-                    <li>Lógica de Programação</li>
-                    <li>InkScape e Gimp</li>
-                    <li>Banco de Dados (Noções)</li>
-                </ul>
-            </section>
-
-            <section>
-                <h3>SOFT SKILLS</h3>
-                <ul>
-                    <li>Trabalho em equipe</li>
-                    <li>Comunicação eficaz</li>
-                    <li>Resolução de problemas</li>
-                </ul>
-            </section>
-        </div>
-    </div>
-</body>
-
-</html>
-´´´java
+---
+Feito com ❤️ por [Seu Nome](https://github.com)
