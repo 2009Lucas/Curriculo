@@ -1,5 +1,5 @@
 # 🚀Curriculo Lucas Hartmann
-> Link para o site: [Acesse aqui](https://link-do-seu-site.com)
+> Link para o site: [Acesse aqui]([https://link-do-seu-site.com](https://2009lucas.github.io/Curriculo/))
 
 ## 📖 Sobre
 Explique brevemente o objetivo do site. É um portfólio? Uma landing page? Um e-commerce? 
@@ -7,7 +7,6 @@ Exemplo: "Este é um site de agendamentos criado para facilitar a organização 
 
 ## ✨ Funcionalidades
 *   **Design Responsivo:** Adaptado para mobile e desktop.
-*   **Integração com API:** Busca dados em tempo real de [Nome da API].
 *   **Formulário de Contato:** Envio de e-mails via [Serviço usado].
 
 ## 🛠️ Tecnologias Utilizadas
